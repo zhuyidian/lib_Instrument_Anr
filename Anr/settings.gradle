@@ -1,0 +1,4 @@
+include ':anr'
+include ':sample'
+rootProject.name='Anr'
+
