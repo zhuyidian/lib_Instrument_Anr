@@ -1,0 +1,16 @@
+# Anr
+/Anr/.gradle/
+/Anr/.idea/
+/Anr/.svn/
+/Anr/java_pid5600.hprof   
+/Anr/java_pid8156.hprof 
+/Anr/*.hprof 
+/Anr/*.iml
+
+#sample
+/Anr/sample/build/
+/Anr/sample/*.iml
+
+#Anr
+/Anr/anr/build/
+/Anr/anr/*.iml
